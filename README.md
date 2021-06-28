@@ -3,6 +3,7 @@ It's a console app. Used to view the movement of files. Notifications can be sen
   
 # Set route and format file
   Set in App.config file. Change the value for the route and format file you want.
+  
     <add key="path_file" value="\\dnth_sv03\Common Folder\IT\Josky"/>
     
     <add key="format_file" value="pdf"/>
