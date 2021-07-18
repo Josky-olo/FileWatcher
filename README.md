@@ -1,5 +1,5 @@
 # FileWatcher
-It's a console app. Used to view the movement of files. Notifications can be sent in Windows Notification and also sent to email. when there is an action on the file
+It's a console app. Used to view the movement of files. Notifications can be sent in Windows Notification(by default) and also sent to email. when there is an action on the file
   
 # Set route and format file
   Set in App.config file. Change the value for the route and format file you want.
