@@ -8,7 +8,7 @@ It's a console app. Used to view the movement of files. Notifications can be sen
     
     <add key="format_file" value="pdf"/>
     
-# Set email notification
+# Set email notification (Optional)
   Set in App.config file. Change the value for the sender mail and receiver email.
 
      <!--Change the value for the sender email.->
